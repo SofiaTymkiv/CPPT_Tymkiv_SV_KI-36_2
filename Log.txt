@@ -1,0 +1,11 @@
+Added supply: Life Jackets (Quantity: 15)
+Removed supply: Food Packs
+Moving boat from New York to Toronto
+Boat moved to new location: Canada, Toronto, Lake Ontario
+Total supplies on board: 2
+Getting owner's name: John Doe
+Changing boat owner from John Doe to Jane Smith
+Owner changed successfully.
+Current location: Canada, Toronto, Lake Ontario
+Checking if supply 'Water Bottles' exists: Yes
+Total quantity of all supplies: 25
